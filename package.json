@@ -16,6 +16,10 @@
       {
         "command": "turborepo-helper.createPackage",
         "title": "TurboRepo : Create a new package"
+      },
+      {
+        "command": "turborepo-helper.showPackages",
+        "title": "TurboRepo : Show all packages"
       }
     ]
   },
